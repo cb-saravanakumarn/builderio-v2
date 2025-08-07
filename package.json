@@ -10,10 +10,9 @@
   },
   "dependencies": {
     "@builder.io/react": "^8.2.6",
-    "@chargebee/sting-react": "^0.0.2-alpha-prototype.2",
+    "@chargebee/sting-react": "0.0.2-sting-react-alpha.9",
     "@types/react": "^18.3.23",
     "@types/react-dom": "^18.3.7",
-    "builderio-sting-ds": "^1.0.0",
     "eslint-config-next": "^14.2.31",
     "next": "^14.2.31",
     "react": "^18.3.1",
